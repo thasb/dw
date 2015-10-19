@@ -35,8 +35,7 @@ Toda a comunicação será realizada usando o [![Gitter](https://badges.gitter.i
 
 ### Bibliografia Básica
 
-* [Learning PHP, MySQL & JavaScript](http://shop.oreilly.com/product/0636920036463.do)
-* [Desenvolvimento web com PHP e MySQL](http://www.casadocodigo.com.br/products/livro-php-mysql)
+[![Learning PHP, MySQL & JavaScript](assets/php-mysql-js.gif)](https://www.railstutorial.org/)](http://shop.oreilly.com/product/0636920036463.do) [![Desenvolvimento web com PHP e MySQL](assets/php-mysql.png)](https://www.railstutorial.org/)](http://www.casadocodigo.com.br/products/livro-php-mysql)
 
 ### Bibliografia Complementar
 
