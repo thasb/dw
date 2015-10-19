@@ -2,7 +2,7 @@
 
 ![Banner da disciplina](assets/dw.png)
 
-A disciplina de Desenvolvimento para Web (DW) do Curso Superior de Tecnologia em Redes de Computadores tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento de sistemas Web utilizando PHP e banco de dados. Sua carga horária apresenta um total de 83 horas aula e será ministrada pelo professor [Luiz Carlos](). Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
+A disciplina de Desenvolvimento para Web (DW) do Curso Superior de Tecnologia em Redes de Computadores do IFPB tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento de sistemas Web utilizando PHP e banco de dados. Sua carga horária apresenta um total de 83 horas aula e será ministrada pelo professor [Luiz Carlos](). Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
 
 ## Conteúdo
 
