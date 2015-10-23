@@ -7,9 +7,13 @@ A disciplina de Desenvolvimento para Web (DW) do Curso Superior de Tecnologia em
 ## Conteúdo
 
 * Estrutura da Web
+  * Função do cliente e servidor HTTP
+  * Componentes para construir um sistema Web
 * HTML & CSS
   * Hipertexto
-  * Estilo
+    * Como definir a visualização
+    * Tag e atributo: document metadata, sections, grouping content, text-level semantics, table e form.
+  * Folha de estilo
 * Javascript
   * Introdução e estrutura da linguagem
 * PHP
