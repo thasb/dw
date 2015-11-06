@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="home.html">
+		<fieldset>
+			<legend>Dados Pessoais</legend>
+			<label for="name">Nome:</label>
+			<input type="text" name="name" id="name" required>*<br>
+			<label for="birth">Nascimento:</label>
+			<input type="date" name="birth" id="birth"><br>
+			<label for="cpf">CPF:</label>
+			<input type="number" name="cpf" id="cpf"><br>
+			<!-- <input type="text" name="cpf" id="cpf" pattern="[0-9]{11}" title="O CPF deve conter apenas 11 dígitos"><br> -->
+			Sexo:
+			<input type="radio" name="gender" id="mas" value="mas" checked> 
+			<label for="mas">Masculino</label>
+			<input type="radio" name="gender" id="fem" value="fem"> 
+			<label for="fem">Feminino</label><br>
+			<label for="image">Imagem:</label>
+			<input type="file" name="image" id="image"><br>
+			<label for="city">cidade</label>
+			<select name="city" id="city">
+				<option value="joao pessoa" selected></option>
+				<optgroup label="Litoral">
+					<option value="joao pessoa">João Pessoa</option>
+					<option value="bayeux">Bayeux</option>
+				</optgroup>
+				<optgroup label="Sertão">
+					<option value="patos">Patos</option>
+				</optgroup>
+			</select>
+		</fieldset>
+		<fieldset>
+			<legend>Experiência</legend>
+			<input type="checkbox" name="skill" id="linux" value="linux">
+			<label for="linux">Administração de Sistemas Linux</label>
+			<input type="checkbox" name="skill" id="redes" value="redes">
+			<label for="redes">Administração de Roteadores e Switches</label>
+		</fieldset>
+		<input type="submit" value="Cadastrar">
+
+	</form>
+</body>
+</html>
